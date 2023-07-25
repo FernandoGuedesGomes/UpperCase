@@ -1,0 +1,13 @@
+{
+  "name": "uppercase",
+  "version": "2.0.0",
+  "description": "Script para criar um arquivo de texto tudo em maiúsculo a partir de outro arquivo.",
+  "main": "upperCase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Uppercase.js"
+  },
+  "keywords": [],
+  "author": "FernandoGomes",
+  "license": "ISC"
+}
